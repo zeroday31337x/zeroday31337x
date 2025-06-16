@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m Justen Vannocker — a cybersecurity expert and full-stack developer with over 20 years of experience in exploit development, network defense, and secure SaaS design.
+I’m Justen Vannocker — a Shstems Architect  and full-stack developer with over 20 years of experience, network defense, and secure SaaS design.
 
 Once active in the underground hacking scene, I’ve since transitioned into white hat work — helping secure enterprise systems,
 lead red team operations, analyze malware, and build tools that make tech more secure and user-friendly.
