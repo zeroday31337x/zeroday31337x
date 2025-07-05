@@ -1,5 +1,5 @@
 - 👋 Hi # Justen Vannocker  
-**Systems Architect • Developer • Public Figure**  
+**Systems Architect • Developer • **  
 [zeroday3.com](https://www.zeroday3.com) | [Email Me](mailto:justen@zeroday31337.info) | [GitHub](https://github.com/zeroday31337)
 
 ---
